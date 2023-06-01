@@ -12,11 +12,12 @@ Whisper Help is a voice-powered assistant application developed using React and 
 
 ## Features
 
-### Voice-powered assistant that listens and responds to user commands.
-### Supports 99+ languages.
-### Text-to-speech conversion for reading out responses to user.
-### Clear and mute options for user convenience.
-### Option to switch between voice and text input.
+#### Voice-powered assistant that listens and responds to user commands.
+#### Supports 99+ languages.
+#### Text-to-speech conversion for reading out responses to user.
+#### Clear and mute options for user convenience.
+#### Option to switch between voice and text input.
+
 
 
 ## Installation & Setup
